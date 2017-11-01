@@ -1,0 +1,21 @@
+https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=74389
+https://www.youtube.com/watch?v=QVkDQj6EcLc
+
+https://github.com/rwaldron/johnny-five/wiki/Piezo expander relay button
+
+
+https://github.com/nebrius/raspi-io/wiki/Pin-Information
+
+job
+https://guevara.workable.com/jobs/65920
+
+http://badassjs.com/post/40190128792/midijs-a-soundfont-based-midi-sequencer-in
+https://github.com/NHQ/midi-file-parser
+https://github.com/justinlatimer/node-midi
+https://www.npmjs.com/package/midi
+https://www.npmjs.com/package/midifile
+https://www.npmjs.com/package/browser-ear-trainer
+https://www.npmjs.com/package/midi-node
+https://www.npmjs.com/package/midi-player-js
+
+https://github.com/nebrius/raspi-io/wiki/Getting-a-Raspberry-Pi-ready-for-NodeBots
