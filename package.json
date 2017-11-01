@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jbjw/hardware-sandbox/issues"
   },
-  "homepage": "https://github.com/jbjw/hardware-sandbox#readme"
+  "homepage": "https://github.com/jbjw/hardware-sandbox#readme",
+  "dependencies": {
+    "serialport": "^5.0.0"
+  }
 }
